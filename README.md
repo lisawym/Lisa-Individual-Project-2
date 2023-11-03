@@ -7,6 +7,7 @@ The project aims to create a Rust-based CLI application that scrapes seminar inf
 
 
 ### User Guide
+[YouTube Demo Video](https://youtu.be/T_v9up4PbrI)
 
 **Dependencies**
 1. Rust: Ensure you have Rust and Cargo installed on your system, which can be done by following the official Rust installation guide (https://www.rust-lang.org/).
