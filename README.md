@@ -35,7 +35,10 @@ The project aims to create a Rust-based CLI application that scrapes seminar inf
    target/release/event_scraper
    ```
 
-
+### Future works:
+1. Expanding Data Sources: Consider web scraping from additional websites to gather a more extensive dataset.
+2. Enhancing Queries: Include more diverse and specific queries to capture a broader range of information.
+3. Implementing Logging and Monitoring: Integrate robust logging and monitoring mechanisms to track the data collection process effectively and ensure data integrity.
 
 ### Approach to the Problem
 **Step 1: Web Scraping (Rust Source Code)**
