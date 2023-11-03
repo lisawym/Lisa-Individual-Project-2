@@ -199,6 +199,15 @@ dependencies = [
 ]
 
 [[package]]
+name = "event_scraper"
+version = "0.1.0"
+dependencies = [
+ "reqwest",
+ "rusqlite",
+ "scraper",
+]
+
+[[package]]
 name = "fallible-iterator"
 version = "0.2.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -950,15 +959,6 @@ dependencies = [
  "hashlink",
  "libsqlite3-sys",
  "smallvec",
-]
-
-[[package]]
-name = "rust_etl"
-version = "0.1.0"
-dependencies = [
- "reqwest",
- "rusqlite",
- "scraper",
 ]
 
 [[package]]

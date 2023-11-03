@@ -1,0 +1,1 @@
+/Users/lisawang/MIDS/Lisa-Individual-Project-2/target/debug/rust_etl: /Users/lisawang/MIDS/Lisa-Individual-Project-2/src/event.rs /Users/lisawang/MIDS/Lisa-Individual-Project-2/src/main.rs /Users/lisawang/MIDS/Lisa-Individual-Project-2/src/query.rs /Users/lisawang/MIDS/Lisa-Individual-Project-2/src/scraper.rs
